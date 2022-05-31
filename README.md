@@ -6,12 +6,47 @@ and Sqlite for Database
   src="screenshots/logo.png"
   alt="logo"
   title="logo"
-  style="height: 20%; width:20%">
+  style="height: 20%; width:20%;">
+  
+<img
+  src="screenshots/start.gif"
+  alt="logo1"
+  title="logo1"
+  width="40%"
+  height="440">
+  
+<img
+  src="screenshots/login.gif"
+  alt="logo1"
+  title="logo1"
+  width="40%"
+  height="440">
+  
+<img
+  src="screenshots/img5.jpg"
+  alt="logo1"
+  title="logo1"
+  style="height: 20%; width: 20%;">
+  
+  
+<img
+  src="screenshots/img6.jpg"
+  alt="logo1"
+  title="logo1"
+  style="height: 20%; width: 20%;">
+<img
+  src="screenshots/img7.jpg"
+  alt="logo1"
+  title="logo1"
+  style="height: 20%; width: 20%;">
+<img
+  src="screenshots/img8.jpg"
+  alt="logo1"
+  title="logo1"
+  style="height: 20%; width: 20%;">
+  
+  
 
 
-![alt text](screenshots/start.gif)
-![alt text](screenshots/login.gif)
-![alt text](screenshots/img5.jpg)
-![alt text](screenshots/img6.jpg)
-![alt text](screenshots/img7.jpg)
-![alt text](screenshots/img8.jpg)
+
+
