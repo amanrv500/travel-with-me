@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "741183562855",
+    "firebase_url": "https://travel-with-me-74d28-default-rtdb.firebaseio.com",
+    "project_id": "travel-with-me-74d28",
+    "storage_bucket": "travel-with-me-74d28.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:741183562855:android:63dafbda97852179f0e0c2",
+        "android_client_info": {
+          "package_name": "com.example.travel_with_me"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "741183562855-6pct49d7eot57a3bug691cf8mflhfq1a.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.travel_with_me",
+            "certificate_hash": "0c7876841938da7b08baabd6d7f76c8fbd88b060"
+          }
+        },
+        {
+          "client_id": "741183562855-cnt4jv35ih43gonjak1ou6nqg7bsea4v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyByTqz4i6ELkXH1vMqEsNoB0brkhoSq1C4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "741183562855-cnt4jv35ih43gonjak1ou6nqg7bsea4v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

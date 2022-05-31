@@ -1,0 +1,39 @@
+<resources>
+    <string name="app_name">Travel-With-Me</string>
+    <string name="logo_name">Travel with me</string>
+    <string name="slogan_name">We will Help You in finding your destination!</string>
+    <string name="created_by">Created by Aman,Janaki,Omkar</string>
+    <string name="lets_start">Let\'s Get Started</string>
+    <string name="welcome">Welcome!</string>
+    <string name="quote">Traveling – it leaves you speechless, then turns you into a storyteller – Ibn Battuta</string>
+    <string name="search">Search</string>
+    <string name="res">Restaurants</string>
+    <string name="hotel">Hotels</string>
+    <string name="air">Airports</string>
+    <string name="shop">Shops</string>
+    <string name="featured">All Featured Location</string>
+    <string name="locfeatured">All The That are featured and have top demand in town</string>
+    <string name="most_viewed">Most Viewed</string>
+    <string name="view_all">View All</string>
+    <string name="categories">Categories</string>
+    <string name="retailerheading">Sign in Here</string>
+    <string name="login">Login</string>
+    <string name="signuup">Sign Up</string>
+    <string name="enter_user_name">Enter User Name</string>
+    <string name="password">Password</string>
+    <string name="transition_login">Transistion </string>
+    <string name="create_account">Create Account</string>
+    <string name="email">Email</string>
+    <string name="phone">Phone</string>
+    <string name="done">Done</string>
+    <string name="code">Code</string>
+    <string name="verification">Verification</string>
+    <string name="verify">Verify</string>
+    <string name="otp">Enter Your OTP</string>
+    <string name="profile">Profile</string>
+    <string name="logout">Log Out</string>
+    <string name="home">Home</string>
+    <string name="title_activity_maps">MapsActivity</string>
+
+
+</resources>
