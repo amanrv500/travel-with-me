@@ -13,9 +13,7 @@ and Sqlite for Database
   
   
 ![alt text](screenshots/start.gif)
-
 ![alt text](screenshots/login.gif)
-
 ![alt text](screenshots/img5.jpg)
 ![alt text](screenshots/img6.jpg)
 ![alt text](screenshots/img7.jpg)
