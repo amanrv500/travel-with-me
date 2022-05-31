@@ -2,16 +2,13 @@
 Travel With me is an android application made with Java
 and Sqlite for Database
 
-
-
 <img
   src="screenshots/logo.png"
   alt="logo"
   title="logo"
   style="height: 20%; width:20%">
-  
-  
-  
+
+
 ![alt text](screenshots/start.gif)
 ![alt text](screenshots/login.gif)
 ![alt text](screenshots/img5.jpg)
